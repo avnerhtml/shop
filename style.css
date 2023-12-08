@@ -18,7 +18,7 @@ th, td, table {
 }
 .hero-section{
     margin-top: 46px !important;
-    background-image: url("gifted.png");
+    background-image: url("gh.png");
     background-repeat: no-repeat;
     box-sizing: border-box;
 }
@@ -176,11 +176,11 @@ th, td, table {
     border-radius: 50%;
 }
 
-/*medium screens - Laptops*/
+
 
 @media screen and (max-width: 1024px) {
     .hero-section{
-        background-image: url("gifted.png");
+        background-image: url("gh.png");
         background-repeat: no-repeat;
     }
     .products{
@@ -217,7 +217,7 @@ th, td, table {
         height: 600px;
     }
    .hero-section{
-    background-image: url("gifted.png");
+    background-image: url("gh.png");
     background-repeat: no-repeat;
     background-size: cover;
     margin: auto;
@@ -233,7 +233,7 @@ th, td, table {
     
 }
 
-/*Small screens - tablets*/
+
 @media screen and (min-width:481px) and (max-width: 768px) {
     .feedback{
         width:90%;
@@ -258,7 +258,7 @@ th, td, table {
     
     .hero-section{
         margin-top: 50px;
-        background-image: url("gifted.png");
+        background-image: url("gh.png");
         background-repeat: no-repeat;
     }
     .hero-section-main{
@@ -342,7 +342,7 @@ th, td, table {
 }
 
 
-/*Extra small screens - phones*/
+
 @media screen and (max-width: 480px) {
     .hero-section-main{
         background-color: rgba(22, 22, 22, 0.7);
@@ -352,7 +352,7 @@ th, td, table {
     }
     .hero-section{
         margin-top: 50px;
-        background-image: url("gifted.png") !important;
+        background-image: url("gh.png") !important;
         background-repeat: no-repeat;
         overflow-x: hidden;
         overflow-y: scroll;    
